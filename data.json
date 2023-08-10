@@ -1,1 +1,57 @@
-k
+{"ads":{
+  
+
+"unity_inter":"Interstitial_Android",
+"unity_banner":"Banner_Android",
+"unity_reward":"Rewarded_Android",
+"unity_gameid":"5082535",
+ 
+
+"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+  
+
+"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+"admob_native":"ca-app-pub-3940256099942544/2247696110",
+"admob_reward":"ca-app-pub-3940256099942544/5224354917",
+  
+  
+"yandex_banner":"R-M-2577891-1",
+"yandex_inter":"R-M-2577891-3",
+"yandex_native":"R-M-2577891-2",
+"yandex_reward":"R-M-2577891-4",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
+
+  
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
+
+"download_dialog_txt":"download text from server",
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
+  
+
+},
+  "my_data":[
+  {"desc1":"n the dynamic realm of digital art and design, staying ahead of the curve is essential. The advent of mobile technology has brought about a revolution in creativity, enabling artists and designers to express their ideas and visions with unprecedented flexibility and convenience. Enter DABS for Android – a cutting-edge application that is poised to redefine the landscape of digital art and design. In this article, we will explore the innovative features, capabilities, and impact of DABS on the Android platform. ",
+   "photo1":"https://iili.io/HDC9rva.jpg"},
+  {"desc2":"Canvas of Possibilities: DABS provides a virtual canvas that opens up a world of creative possibilities. Artists can select from a variety of canvas sizes and dimensions, giving them the freedom to create everything from intricate sketches to large-scale masterpieces.","photo2":"https://iili.io/HDC94yJ.jpg"},
+  {"desc3":"Intuitive Drawing Tools: With a responsive and intuitive interface, DABS offers a range of drawing tools, including brushes, pencils, pens, and airbrushes. These tools are designed to mimic the physical experience of traditional art media while harnessing the advantages of digital precision.","photo3":"https://iili.io/HDC9U3F.webp"},
+  {"desc4":"Layers and Effects: DABS empowers artists to work with layers, allowing for seamless editing, adjustment, and experimentation. Additionally, a plethora of artistic effects, such as filters, gradients, and blending modes, enrich the creative process and enable the realization of unique visual aesthetics.","photo4":"https://iili.io/HDC9gYg.jpg"},
+  {"desc5":"Versatile Color Palette: A comprehensive color palette ensures that artists can explore a full spectrum of hues, shades, and tones. Custom color creation, color picking, and advanced color management tools provide the necessary resources to bring any artistic vision to life.","photo5":"https://iili.io/HDC9PTv.jpg"},
+  {"descd":"Export and Sharing: Once a masterpiece is complete, DABS allows artists to export their work in various formats, including PNG, JPEG, and PSD. The application also facilitates easy sharing across social media platforms, allowing artists to showcase their creations to a global audience.","photod":"https://iili.io/HDC9ijR.jpg"}
+   ]
+ 
+}
